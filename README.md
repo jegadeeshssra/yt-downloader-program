@@ -1,4 +1,4 @@
-# YouTube Video Downloader (yt_dlp)
+# YouTube Video Downloader
 
 A **simple Python script** for downloading YouTube videos – built just for fun and experimentation with `yt_dlp`
 
